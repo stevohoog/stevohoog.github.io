@@ -12,7 +12,8 @@ div.a {
     margin: 0 auto;
  }
   body{
-        background-color: gray}
+    background-image: url("gifs images/skyrim.jpg");
+    background-size: cover;}
  div.b  {
     margin: left;
     max-width: 1250px;
